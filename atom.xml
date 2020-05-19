@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zl-curry.github.io/</id>
     <title>ICC</title>
-    <updated>2020-05-18T06:35:38.855Z</updated>
+    <updated>2020-05-19T13:15:36.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zl-curry.github.io/"/>
     <link rel="self" href="https://zl-curry.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://zl-curry.github.io/images/avatar.png</logo>
     <icon>https://zl-curry.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ICC</rights>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday]]></title>
+        <id>https://zl-curry.github.io/post/happy-birthday/</id>
+        <link href="https://zl-curry.github.io/post/happy-birthday/">
+        </link>
+        <updated>2020-05-19T13:11:06.000Z</updated>
+        <content type="html"><![CDATA[<p>Today is my 21st birthday❤️<br>
+Come on, to stand on the shoulders of giants🌅</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是我发表的第一篇博客]]></title>
         <id>https://zl-curry.github.io/post/zhe-shi-wo-fa-biao-de-di-yi-pian-bo-ke/</id>
